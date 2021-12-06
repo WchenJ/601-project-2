@@ -12,7 +12,7 @@ The google NLP will be used on the predicting part before every competition, the
 
 MVP
 
-
+The APP is used for tennis fans to keep pace on competitions and players. Fans could search and see attitudes from the public easily as well as keep pace on locations of the players, which could act as a key to trace the hotspot of tennis field.
 
 User stories
 
